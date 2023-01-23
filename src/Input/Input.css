@@ -1,0 +1,16 @@
+
+.input {
+    border-radius: 5px;
+    padding: 8px 16px;
+    font-size: 16px;
+    border: 2px solid #4676D7;
+}
+
+.input:hover {
+    border: 2px solid #1d49aa;
+}
+  
+.input:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px #cbd6ee;
+}
