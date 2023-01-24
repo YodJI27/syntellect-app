@@ -51,6 +51,7 @@ const testRightButtons = new controlButtons(
       ]
  )
 
+// Контрол автокомплит. В качестве аргумента передаем кол-вол подсказок
 // Пример 3. Контрол автокомплит с 3 подсказками
  const testAutocomplitThreeTips = new controlAutocomplit(3)
 // Пример 4. Контрол автокомплит с 10 подсказками
