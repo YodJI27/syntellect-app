@@ -51,8 +51,11 @@ const testRightButtons = new controlButtons(
       ]
  )
 
+// Пример 3. Контрол автокомплит с 3 подсказками
  const testAutocomplitThreeTips = new controlAutocomplit(3)
+// Пример 4. Контрол автокомплит с 10 подсказками
+ const testAutocomplitTenTips = new controlAutocomplit(10) 
 
- const testAutocomplitTenTips = new controlAutocomplit(10)
+
 
  export {testRightButtons, testRightAndLeftButtons, testAutocomplitThreeTips, testAutocomplitTenTips}
